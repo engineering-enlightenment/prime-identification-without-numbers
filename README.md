@@ -28,7 +28,7 @@ Because every measurement is compatible, we can simply "put a box around it" and
 
 The establishment of a new measurement as a quantum unit is the establishment of a new "number universe" in which the new quantum unit is 1, the pattern repeats identically, and 0 is a reference back to an origin point, which may be any quantity of layers below. The quantity and structure of layers below must be unknown, otherwise additional information regarding the order of layers (a specific type of information called "sequence") is inserted into the overall system and the prior structure changes. It can no longer be a functional crystal replication of the original pattern.
 
-From the point of view of any particular layer, what lies behind 0 is undefined, so I will often write this reference to origin as ![symbol for undefined origin](zero_origin_with_undefined_symbol_15px.png) to show both the standard zero (0) and a symbol that I regularly use for things that are undefined ![symbol for undefined value](undefined_symbol_15px.png).
+From the point of view of any particular layer, what lies behind 0 is undefined, so I will often write this reference to origin as ![symbol for undefined origin](zero_origin_with_undefined_symbol_48px.png) to show both the standard zero (0) and a symbol that I regularly use for things that are undefined ![symbol for undefined value](undefined_symbol_48px.png).
 
 What quantity from the prior layer is stored within the quantum unit we see as 1 is not known from within our layer, either. But we do know that the pattern we see is the pattern that was used to create us.
 
