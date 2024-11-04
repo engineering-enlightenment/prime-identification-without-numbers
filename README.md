@@ -112,7 +112,7 @@ It doesn't matter if you fill in all paths all the way to the point where you wa
 
 Whenever you have reached a place on the paths where you want to collect the prime numbers, just make sure that the pattern has been filled in for all paths up to your current stopping point, and then proceed to finally add numbers to your layout so you can collect the primes you have mapped.
 
-Using an open path (preferably right next to the root layer path to make everything easier), use your favorite number base and set of digit symbols to expose the number line. The standard numbers we use daily are number base 10 (decimal) and the digit symobls are, of course: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9
+Using an open path (preferably right next to the root layer path to make everything easier), use your favorite number base and set of digit symbols to expose the number line. The standard numbers we use daily are number base 10 (decimal) and the digit symbols are, of course: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9
 
 On your number sequence path, put 1 in the starting point space. Put the next number in the next space and keep going until you reach your stopping point.
 
