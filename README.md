@@ -28,7 +28,7 @@ Because every measurement is compatible, we can simply "put a box around it" and
 
 The establishment of a new measurement as a quantum unit is the establishment of a new "number universe" in which the new quantum unit is 1, the pattern repeats identically, and 0 is a reference back to an origin point, which may be any quantity of layers below. The quantity and structure of layers below must be unknown, otherwise additional information regarding the order of layers (a specific type of information called "sequence") is inserted into the overall system and the prior structure changes. It can no longer be a functional crystal replication of the original pattern.
 
-From the point of view of any particular layer, what lies behind 0 is undefined, so I will often write this reference to origin as ![symbol for undefined origin](zero_origin_with_undefined_symbol_40px.png) to show both the standard zero (0) and a symbol that I regularly use for things that are undefined ![symbol for undefined value](undefined_symbol_40px.png).
+From the point of view of any particular layer, what lies behind 0 is undefined, so I will often write this reference to origin as ![symbol for undefined origin](zero_origin_with_undefined_symbol_15px.png) to show both the standard zero (0) and a symbol that I regularly use for things that are undefined ![symbol for undefined value](undefined_symbol_15px.png).
 
 What quantity from the prior layer is stored within the quantum unit we see as 1 is not known from within our layer, either. But we do know that the pattern we see is the pattern that was used to create us.
 
@@ -69,6 +69,7 @@ The pattern is:
 4. Repeat steps 2 and 3.
 
 It should look like this:
+
 ![prime number core pattern](prime_number_core_pattern_illustration.png)
 
 The reason that the pattern looks like this, with the spacing that it has, is because the numbers 2 and 3 in the number line interact with each other in a way that produces periodic intersections where they are compatible with each other and also periodic protected spaces immediately adjacent to the intersections, one on each side of the intersection, which are compatible with neither 2 nor 3.
