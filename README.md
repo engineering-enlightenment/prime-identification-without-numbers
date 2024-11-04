@@ -48,7 +48,7 @@ We also need the ability to place quantum units, which are identical and therefo
 
 As an example, we can stack boxes, one on top of another, and it doesn't matter whether we look with our head tilted sideways, or if we count from top to bottom instead of bottom to top... we always get the same information about how many boxes are found between where we start and where we stop measuring.
 
-We need the ability to take measurements whenever we want and whereever we want without causing a change in the thing we are measuring or, in less ideal circumstances, we cause a change when we measure but we can keep track of the changes or we can restore the system to the pre-measured state as needed.
+We need the ability to take measurements whenever we want and wherever we want without causing a change in the thing we are measuring or, in less ideal circumstances, we cause a change when we measure but we can keep track of the changes or we can restore the system to the pre-measured state as needed.
 
 And we need the ability to take the same measurement, as many times as we want, and always get the same result as long as the thing we are measuring hasn't changed.
 
