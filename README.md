@@ -4,7 +4,7 @@ Author: Kilton Hopkins
 
 Email: info@engineeringenlightenment.org
 
-Public release: 11/2/2024
+Public release: 11/5/2024
 
 This paper describes an alternative process for identifying prime numbers that does not require the use of numbers or mathematical operations. The process can be completed in ways that are highly visual but also allows for a vast variety of approaches. With relatively few steps, a focus on repetition, and a fair amount of inherent flexibility, the process should allow for creativity and novel implementation by any interested and resourceful individual. Reference illustrations are provided within the flow of the text and a separate full illustration image file accompanies the paper. Additionally, a video walkthrough of the process being completed using a pencil, an unmarked ruler, and graph paper is available at [https://www.youtube.com/watch?v=p_wIaxijbnQ](https://www.youtube.com/watch?v=p_wIaxijbnQ)
 
